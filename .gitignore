@@ -2,3 +2,6 @@ venv/
 ee.json
 .env
 __pycache__/
+.DS_Store
+data/
+CLAUDE.md
