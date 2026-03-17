@@ -1,0 +1,12 @@
+streamlit
+earthengine-api
+geemap==0.37.1
+xyzservices<2025
+streamlit-folium
+pandas
+plotly
+python-dotenv
+geopandas
+fiona
+shapely
+pyproj
